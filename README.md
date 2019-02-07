@@ -1,2 +1,3 @@
 # App-success-prediction
-imput folder contains the required data set
+# input folder contains the required data set
+Success prediction of app using sgbm,lgbm and random forest classifiers.
